@@ -12,7 +12,7 @@ Apesar dessas melhorias, ainda existem poucas análises práticas comparando o d
 
 2. Proposta
 
-A proposta deste trabalho é realizar uma avaliação comparativa entre os protocolos HTTP/3 e HTTP/1.1, analisando fatores como desempenho, tempo de resposta e estabilidade da conexão. O objetivo é identificar as principais diferenças entre as versões e verificar se o HTTP/3 realmente apresenta vantagens significativas no uso da web atual.
+A proposta deste trabalho é realizar uma análise prática do funcionamento do protocolo HTTP em uma rede simulada, observando como ocorre a comunicação entre cliente e servidor durante o acesso a páginas web. O objetivo é compreender o funcionamento do protocolo, analisar o tráfego de pacotes e identificar a importância da infraestrutura de rede no desempenho da comunicação.
 
-Para o desenvolvimento do trabalho, serão utilizadas tecnologias como a linguagem Python para criação dos testes e coleta de dados, além do Docker para simular o ambiente de experimentação. Também poderão ser utilizadas bibliotecas de rede, como socket e ferramentas de monitoramento para análise dos resultados obtidos durante os testes.
+Para o desenvolvimento do trabalho, será utilizado o Cisco Packet Tracer para a criação e simulação da rede de computadores. Através dele, serão configurados dispositivos como computadores, switches, roteadores e servidores web, permitindo acompanhar o envio e recebimento de pacotes HTTP em tempo real e analisar o comportamento da comunicação na rede.
 
