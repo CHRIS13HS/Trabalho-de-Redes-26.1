@@ -1,5 +1,5 @@
 # Trabalho-de-Redes-26.1
-Christian, Miguel, José
+Christian, Paulo, Thomaz
 
 https://docs.google.com/document/d/1rT_Yl2qAMzC4G11qFJmZs37SmwHFCSAp294EFWzcTm8/edit?usp=sharing
 https://github.com/CHRIS13HS/Trabalho-de-Redes-26.1
